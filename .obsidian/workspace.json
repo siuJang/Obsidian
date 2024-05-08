@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Study/MARKDOWN.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Study/MARKDOWN.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Study/MARKDOWN.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Study/MARKDOWN.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "4056a8b4d7652fff",
   "lastOpenFiles": [
-    "나/무제 파일.md",
     "Obsidian Study/MARKDOWN.md",
+    "나/무제 파일.md",
     "Daily Notes/무제 파일.md",
     "README.md",
     "2-1/웹 프로그래밍/web2024ai_2장_확인문제.pdf",
