@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian Study/MARKDOWN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian Study/MARKDOWN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian Study/MARKDOWN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Obsidian Study/MARKDOWN.md"
               }
             }
           },
@@ -158,9 +158,12 @@
   },
   "active": "4056a8b4d7652fff",
   "lastOpenFiles": [
-    "web2024ai_2장_확인문제.pdf",
-    "2-1/웹 프로그래밍/web2024ai_1장_확인문제.pdf",
+    "나/무제 파일.md",
+    "Obsidian Study/MARKDOWN.md",
+    "Daily Notes/무제 파일.md",
     "README.md",
+    "2-1/웹 프로그래밍/web2024ai_2장_확인문제.pdf",
+    "2-1/웹 프로그래밍/web2024ai_1장_확인문제.pdf",
     "2-1/데이터 구조/6주차(큐).pdf",
     "2-1/데이터 구조/2주차_리스트.pdf",
     "무제 파일.canvas",
@@ -187,8 +190,6 @@
     "2-1/데이터 구조/연습 문제.md",
     "2-1/문제해결프로그래밍/무제 파일 1.md",
     "2-1/데이터 구조/Stack.md",
-    "2-1/데이터 구조/4) node 수정, 삭제(single, double).md",
-    "2-1/확률과 통계/11).md",
     "2-1/웹 프로그래밍/web2024ai_3장_확인문제.pdf",
     "2-1/웹 프로그래밍/web2024ai_3장.pdf",
     "2-1/웹 프로그래밍/web2024ai_2장.pdf",
