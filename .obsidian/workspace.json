@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,13 +156,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "47edc8a491d49004",
+  "active": "4056a8b4d7652fff",
   "lastOpenFiles": [
-    "2-1/웹 프로그래밍/4) 쿠키와 세션.md",
-    "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
-    "2-1/인공지능/Overfitting.md",
-    "컴퓨터구조_2장_김현석.pdf",
+    "web2024ai_2장_확인문제.pdf",
+    "2-1/웹 프로그래밍/web2024ai_1장_확인문제.pdf",
     "README.md",
+    "2-1/데이터 구조/6주차(큐).pdf",
+    "2-1/데이터 구조/2주차_리스트.pdf",
+    "무제 파일.canvas",
+    "2-1/데이터 구조/2) 리스트.md",
+    "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+    "2-1/웹 프로그래밍/4) 쿠키와 세션.md",
+    "2-1/인공지능/Overfitting.md",
+    "2-1/컴퓨터 구조/컴퓨터구조_2장_김현석.pdf",
     "깃헙 확인파일.md",
     "Python Study/Chapter 5 List.md",
     "2-1/웹 프로그래밍/3) 스프링부트 기초 실습.md",
@@ -175,7 +181,6 @@
     "2-1/웹 프로그래밍/퀴즈.md",
     "2-1/웹 프로그래밍/4ㅇㅇ.md",
     "2-1/컴퓨터 구조/3-디지털 논리 회로.md",
-    "2-1/데이터 구조/2) 리스트.md",
     "2-1/문제해결프로그래밍/6) 문자열.md",
     "2-1/문제해결프로그래밍/4 재귀 알고리즘 분석.md",
     "2-1/데이터 구조/6) queue.md",
@@ -183,17 +188,11 @@
     "2-1/문제해결프로그래밍/무제 파일 1.md",
     "2-1/데이터 구조/Stack.md",
     "2-1/데이터 구조/4) node 수정, 삭제(single, double).md",
-    "무제 파일.canvas",
     "2-1/확률과 통계/11).md",
-    "web2024ai_3장_확인문제.pdf",
-    "web2024ai_3장.pdf",
-    "web2024ai_2장_확인문제.pdf",
-    "web2024ai_1장_확인문제.pdf",
-    "web2024ai_2장.pdf",
-    "web2024ai_1장.pdf",
-    "2-1/컴퓨터 구조/무제 sdd.md",
-    "2-1/컴퓨터 구조/무제 폴더",
-    "web2024ai_4장.pdf",
-    "6주차(큐).pdf"
+    "2-1/웹 프로그래밍/web2024ai_3장_확인문제.pdf",
+    "2-1/웹 프로그래밍/web2024ai_3장.pdf",
+    "2-1/웹 프로그래밍/web2024ai_2장.pdf",
+    "2-1/웹 프로그래밍/web2024ai_1장.pdf",
+    "2-1/컴퓨터 구조/무제 폴더"
   ]
 }
