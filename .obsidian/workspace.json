@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+                "file": "2-1/인공지능/CNN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+                "file": "2-1/인공지능/CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+                "file": "2-1/인공지능/CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md"
+                "file": "2-1/인공지능/CNN.md"
               }
             }
           },
@@ -143,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +159,9 @@
   },
   "active": "47edc8a491d49004",
   "lastOpenFiles": [
+    "2-1/확률과 통계/무제 파일.md",
+    "2-1/인공지능/CNN.md",
+    "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
     "2-1/문제해결프로그래밍/10) 동적 프로그래밍.md",
     "2-1/웹 프로그래밍/4) 쿠키와 세션.md",
     "2-1/인공지능/Overfitting.md",
@@ -174,7 +179,6 @@
     "2-1/데이터 구조/2주차_리스트.pdf",
     "무제 파일.canvas",
     "2-1/데이터 구조/2) 리스트.md",
-    "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
     "깃헙 확인파일.md",
     "Python Study/Chapter 5 List.md",
     "2-1/웹 프로그래밍/3) 스프링부트 기초 실습.md",
@@ -189,7 +193,6 @@
     "2-1/컴퓨터 구조/3-디지털 논리 회로.md",
     "2-1/문제해결프로그래밍/6) 문자열.md",
     "2-1/문제해결프로그래밍/4 재귀 알고리즘 분석.md",
-    "2-1/데이터 구조/6) queue.md",
     "2-1/웹 프로그래밍/자료/web2024ai_3장_확인문제.pdf",
     "2-1/웹 프로그래밍/자료/web2024ai_3장.pdf",
     "2-1/웹 프로그래밍/자료/web2024ai_2장.pdf"
