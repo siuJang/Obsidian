@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1/컴퓨터 구조/5-제어 장치.md",
+                "file": "2-1/웹 프로그래밍/1) HTML.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/컴퓨터 구조/5-제어 장치.md",
+                "file": "2-1/웹 프로그래밍/1) HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/컴퓨터 구조/5-제어 장치.md",
+                "file": "2-1/웹 프로그래밍/1) HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/컴퓨터 구조/5-제어 장치.md"
+                "file": "2-1/웹 프로그래밍/1) HTML.md"
               }
             }
           },
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 518.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,9 +172,23 @@
   },
   "active": "f8d35849daed9704",
   "lastOpenFiles": [
+    "2-1/웹 프로그래밍/자료/web2024ai_4장.pdf",
+    "2-1/데이터 구조/Stack.md",
+    "2-1/데이터 구조/11) AVL 트리.md",
+    "2-1/데이터 구조/연습 문제.md",
+    "2-1/데이터 구조/6) queue.md",
+    "2-1/데이터 구조/4) node 수정, 삭제(single, double).md",
+    "2-1/문제해결프로그래밍/10) 동적 프로그래밍.md",
+    "2-1/문제해결프로그래밍/6) 문자열.md",
+    "2-1/인공지능/Overfitting.md",
+    "2-1/인공지능/CNN.md",
+    "Obsidian Study/MARKDOWN.md",
+    "Python Study/Chapter 5 List.md",
+    "README.md",
+    "Templates/Daily Notes Templates.md",
+    "2-1/컴퓨터 구조/5-제어 장치.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_5장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
-    "2-1/컴퓨터 구조/5-제어 장치.md",
     "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
     "2-1/컴퓨터 구조/핵심필기.md",
     "2-1/데이터 구조/자료/11주차(AVL).pdf",
@@ -181,32 +196,18 @@
     "2-1/데이터 구조/자료/5주차(스택).pdf",
     "2-1/데이터 구조/자료/9주차(트리).pdf",
     "2-1/데이터 구조/자료/10주차(BST구현).pdf",
-    "2-1/데이터 구조/11) AVL 트리.md",
     "2-1/데이터 구조/자료/2주차_리스트.pdf",
-    "2-1/데이터 구조/연습 문제.md",
     "2-1/데이터 구조/자료",
-    "2-1/인공지능/CNN.md",
     "2-1/확률과 통계/무제 파일.md",
     "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
-    "2-1/문제해결프로그래밍/10) 동적 프로그래밍.md",
     "2-1/웹 프로그래밍/4) 쿠키와 세션.md",
-    "2-1/인공지능/Overfitting.md",
     "2-1/웹 프로그래밍/자료",
-    "2-1/컴퓨터 구조/자료",
-    "README.md",
-    "Obsidian Study/MARKDOWN.md",
     "나/무제 파일.md",
     "Daily Notes/무제 파일.md",
     "무제 파일.canvas",
     "2-1/데이터 구조/2) 리스트.md",
     "깃헙 확인파일.md",
-    "Python Study/Chapter 5 List.md",
     "2-1/웹 프로그래밍/3) 스프링부트 기초 실습.md",
-    "2-1/웹 프로그래밍/2) 개발환경 설정.md",
-    "2-1/확률과 통계/13.md",
-    "2-1/컴퓨터 구조/1-서론.md",
-    "2-1/컴퓨터 구조/2-데이터의 표현.md",
-    "2-1/웹 프로그래밍/1) HTML.md",
-    "2-1/웹 프로그래밍/핵심 필기.md"
+    "2-1/웹 프로그래밍/2) 개발환경 설정.md"
   ]
 }
