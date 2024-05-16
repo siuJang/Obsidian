@@ -19,6 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8d35849daed9704",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf"
+              }
+            }
           }
         ]
       }
@@ -169,7 +179,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4056a8b4d7652fff",
+  "active": "47edc8a491d49004",
   "lastOpenFiles": [
     "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
     "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
