@@ -24,13 +24,17 @@
             "id": "f8d35849daed9704",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf"
+                "file": "2-1/컴퓨터 구조/5-제어 장치.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
+                "file": "2-1/컴퓨터 구조/5-제어 장치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
+                "file": "2-1/컴퓨터 구조/5-제어 장치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/컴퓨터 구조/4-중앙 처리 장치.md"
+                "file": "2-1/컴퓨터 구조/5-제어 장치.md"
               }
             }
           },
@@ -166,9 +169,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "47edc8a491d49004",
+  "active": "f8d35849daed9704",
   "lastOpenFiles": [
+    "2-1/컴퓨터 구조/자료/컴퓨터구조_5장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
+    "2-1/컴퓨터 구조/5-제어 장치.md",
     "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
     "2-1/컴퓨터 구조/핵심필기.md",
     "2-1/데이터 구조/자료/11주차(AVL).pdf",
@@ -202,7 +207,6 @@
     "2-1/컴퓨터 구조/1-서론.md",
     "2-1/컴퓨터 구조/2-데이터의 표현.md",
     "2-1/웹 프로그래밍/1) HTML.md",
-    "2-1/웹 프로그래밍/핵심 필기.md",
-    "2-1/웹 프로그래밍/퀴즈.md"
+    "2-1/웹 프로그래밍/핵심 필기.md"
   ]
 }
