@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e1cb35b75e954991",
+        "id": "5c7c3ac9685e05c4",
         "type": "tabs",
         "children": [
           {
-            "id": "47edc8a491d49004",
+            "id": "c538c89c3f6cb9db",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2-1/데이터 구조/자료/11주차(AVL).pdf"
+                "file": "2-1/데이터 구조/12) 정렬.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/데이터 구조/자료/11주차(AVL).pdf",
+                "file": "2-1/데이터 구조/12) 정렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/데이터 구조/자료/11주차(AVL).pdf",
+                "file": "2-1/데이터 구조/12) 정렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/데이터 구조/자료/11주차(AVL).pdf"
+                "file": "2-1/데이터 구조/12) 정렬.md"
               }
             }
           },
@@ -140,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,8 +155,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "47edc8a491d49004",
+  "active": "e2813cb6561cd8f1",
   "lastOpenFiles": [
+    "2-1/웹 프로그래밍/6) HTML 기초 실습 2.md",
+    "2-1/데이터 구조/12) 정렬.md",
+    "2-1/데이터 구조/자료/무제 파일.md",
+    "2-1/웹 프로그래밍/자료/web2024ai_6장.pdf",
+    "2-1/데이터 구조/자료/11주차(AVL).pdf",
     "2-1/데이터 구조/자료/11주차(AVL코드구현).pdf",
     "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
     "2-1/웹 프로그래밍/1) HTML.md",
@@ -175,21 +183,16 @@
     "2-1/컴퓨터 구조/자료/컴퓨터구조_5장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
     "2-1/컴퓨터 구조/핵심필기.md",
-    "2-1/데이터 구조/자료/11주차(AVL).pdf",
     "2-1/데이터 구조/자료/6주차(큐).pdf",
     "2-1/데이터 구조/자료/5주차(스택).pdf",
     "2-1/데이터 구조/자료/9주차(트리).pdf",
     "2-1/데이터 구조/자료/10주차(BST구현).pdf",
-    "2-1/데이터 구조/자료/2주차_리스트.pdf",
-    "2-1/데이터 구조/자료",
     "2-1/확률과 통계/무제 파일.md",
     "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
     "2-1/웹 프로그래밍/4) 쿠키와 세션.md",
     "나/무제 파일.md",
     "Daily Notes/무제 파일.md",
     "무제 파일.canvas",
-    "2-1/데이터 구조/2) 리스트.md",
-    "깃헙 확인파일.md",
-    "2-1/웹 프로그래밍/3) 스프링부트 기초 실습.md"
+    "2-1/데이터 구조/2) 리스트.md"
   ]
 }
