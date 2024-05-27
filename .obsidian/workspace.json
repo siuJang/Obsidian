@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1/컴퓨터 구조/5-제어 장치.md",
+                "file": "Linux/What is Linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/컴퓨터 구조/5-제어 장치.md",
+                "file": "Linux/What is Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/컴퓨터 구조/5-제어 장치.md",
+                "file": "Linux/What is Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/컴퓨터 구조/5-제어 장치.md"
+                "file": "Linux/What is Linux.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "c538c89c3f6cb9db",
   "lastOpenFiles": [
-    "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
     "2-1/컴퓨터 구조/5-제어 장치.md",
+    "Linux/What is Linux.md",
+    "Linux",
+    "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
     "2-1/웹 프로그래밍/1) HTML.md",
     "2-1/데이터 구조/무제 파일.md",
     "2-1/웹 프로그래밍/2) 개발환경 설정.md",
@@ -191,8 +193,6 @@
     "2-1/데이터 구조/자료/6주차(큐).pdf",
     "2-1/데이터 구조/자료/5주차(스택).pdf",
     "2-1/데이터 구조/자료/9주차(트리).pdf",
-    "2-1/데이터 구조/자료/10주차(BST구현).pdf",
-    "2-1/확률과 통계/무제 파일.md",
     "무제 파일.canvas"
   ]
 }
