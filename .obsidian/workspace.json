@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea25c542f9cbc3e",
+        "id": "00a8144332f404b7",
         "type": "tabs",
         "children": [
           {
-            "id": "0a603baebcdc374b",
+            "id": "8a12106594c7f0c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1/컴퓨터 구조/6- 주기억 장치.md",
+                "file": "2-1/데이터 구조/13) 기수정렬.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/컴퓨터 구조/6- 주기억 장치.md",
+                "file": "2-1/데이터 구조/13) 기수정렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/컴퓨터 구조/6- 주기억 장치.md",
+                "file": "2-1/데이터 구조/13) 기수정렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/컴퓨터 구조/6- 주기억 장치.md"
+                "file": "2-1/데이터 구조/13) 기수정렬.md"
               }
             }
           },
@@ -140,12 +140,12 @@
             }
           },
           {
-            "id": "c538c89c3f6cb9db",
+            "id": "0a603baebcdc374b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2-1/컴퓨터 구조/자료/컴퓨터구조_6장_김현석 (1).pdf"
+                "file": "2-1/데이터 구조/자료/13주차(기수정렬).pdf"
               }
             }
           }
@@ -166,8 +166,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0a603baebcdc374b",
+  "active": "8a12106594c7f0c2",
   "lastOpenFiles": [
+    "2-1/데이터 구조/자료/13주차(기수정렬).pdf",
+    "2-1/데이터 구조/13) 기수정렬.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_6장_김현석 (1).pdf",
     "2-1/컴퓨터 구조/6- 주기억 장치.md",
     "2-1/인공지능/ski attent.md",
@@ -176,7 +178,6 @@
     "Linux",
     "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
     "2-1/웹 프로그래밍/1) HTML.md",
-    "2-1/데이터 구조/무제 파일.md",
     "2-1/웹 프로그래밍/2) 개발환경 설정.md",
     "2-1/웹 프로그래밍/3) 스프링부트 기초 실습.md",
     "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
@@ -202,7 +203,6 @@
     "2-1/컴퓨터 구조/자료/컴퓨터구조_5장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
     "2-1/데이터 구조/자료/6주차(큐).pdf",
-    "2-1/데이터 구조/자료/5주차(스택).pdf",
     "무제 파일.canvas"
   ]
 }
