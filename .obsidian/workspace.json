@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+                "file": "2-1/웹 프로그래밍/7).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+                "file": "2-1/웹 프로그래밍/7).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+                "file": "2-1/웹 프로그래밍/7).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md"
+                "file": "2-1/웹 프로그래밍/7).md"
               }
             }
           },
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5,
-    "collapsed": true
+    "width": 502.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +167,7 @@
   },
   "active": "defdb7e26103619c",
   "lastOpenFiles": [
+    "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
     "2-1/데이터 구조/자료/11주차(AVL).pdf",
     "2-1/웹 프로그래밍/7).md",
     "2-1/웹 프로그래밍/자료/web2024ai_6장.pdf",
@@ -178,7 +178,6 @@
     "2-1/컴퓨터 구조/자료/컴퓨터구조_1장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_6장_김현석.pdf",
     "2-1/웹 프로그래밍/6) HTML 기초 실습 2.md",
-    "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
     "2-1/웹 프로그래밍/1) HTML.md",
     "2-1/데이터 구조/자료/13주차(기수정렬).pdf",
     "2-1/웹 프로그래밍/2) 개발환경 설정.md",
