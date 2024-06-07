@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1/웹 프로그래밍/7).md",
+                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/웹 프로그래밍/7).md",
+                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/웹 프로그래밍/7).md",
+                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/웹 프로그래밍/7).md"
+                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md"
               }
             }
           },
@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 502.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +166,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4056a8b4d7652fff",
+  "active": "defdb7e26103619c",
   "lastOpenFiles": [
+    "2-1/데이터 구조/자료/11주차(AVL).pdf",
+    "2-1/웹 프로그래밍/7).md",
     "2-1/웹 프로그래밍/자료/web2024ai_6장.pdf",
     "2-1/데이터 구조/4) node 수정, 삭제(single, double).md",
-    "2-1/웹 프로그래밍/7).md",
     "2-1/데이터 구조/시험문제.md",
     "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
@@ -190,7 +192,6 @@
     "Linux",
     "2-1/데이터 구조/12) 정렬.md",
     "2-1/데이터 구조/자료/무제 파일.md",
-    "2-1/데이터 구조/자료/11주차(AVL).pdf",
     "2-1/데이터 구조/자료/11주차(AVL코드구현).pdf",
     "2-1/웹 프로그래밍/자료/web2024ai_4장.pdf",
     "2-1/데이터 구조/Stack.md",
