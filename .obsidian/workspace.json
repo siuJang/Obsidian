@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1/웹 프로그래밍/핵심 필기.md",
+                "file": "2-1/웹 프로그래밍/7).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/웹 프로그래밍/핵심 필기.md",
+                "file": "2-1/웹 프로그래밍/7).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/웹 프로그래밍/핵심 필기.md",
+                "file": "2-1/웹 프로그래밍/7).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/웹 프로그래밍/핵심 필기.md"
+                "file": "2-1/웹 프로그래밍/7).md"
               }
             }
           },
@@ -166,11 +166,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4056a8b4d7652fff",
+  "active": "8b02deade925c755",
   "lastOpenFiles": [
+    "2-1/웹 프로그래밍/핵심 필기.md",
     "2-1/웹 프로그래밍/7).md",
     "${mcount}.md",
-    "2-1/웹 프로그래밍/핵심 필기.md",
     "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
     "2-1/데이터 구조/자료/11주차(AVL).pdf",
     "2-1/웹 프로그래밍/자료/web2024ai_6장.pdf",
