@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 200
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -166,7 +166,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8b02deade925c755",
+  "active": "4056a8b4d7652fff",
   "lastOpenFiles": [
     "2-1/컴퓨터 구조/자료/컴퓨터구조_2장_김현석.pdf",
     "2-1/웹 프로그래밍/7).md",
