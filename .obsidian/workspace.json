@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25f7aded1f100d83",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 625.5,
-    "collapsed": true
+    "width": 625.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +189,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8b02deade925c755",
+  "active": "25f7aded1f100d83",
   "lastOpenFiles": [
     "2-1/컴퓨터 구조/자료/컴퓨터구조_6장_김현석.pdf",
     "2-1/컴퓨터 구조/6- 주기억 장치.md",
