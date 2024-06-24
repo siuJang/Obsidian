@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
+                "file": "2-1/웹 프로그래밍/7).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/컴퓨터 구조/핵심필기.md",
+                "file": "2-1/웹 프로그래밍/7).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/컴퓨터 구조/핵심필기.md",
+                "file": "2-1/웹 프로그래밍/7).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/컴퓨터 구조/핵심필기.md"
+                "file": "2-1/웹 프로그래밍/7).md"
               }
             }
           },
@@ -193,13 +193,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4056a8b4d7652fff",
+  "active": "25f7aded1f100d83",
   "lastOpenFiles": [
-    "2-1/웹 프로그래밍/7).md",
     "2-1/웹 프로그래밍/핵심 필기.md",
+    "2-1/웹 프로그래밍/7).md",
+    "2-1/웹 프로그래밍/6) HTML 기초 실습 2.md",
+    "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
     "2-1/컴퓨터 구조/핵심필기.md",
     "2-1/컴퓨터 구조/4-중앙 처리 장치.md",
-    "2-1/웹 프로그래밍/6) HTML 기초 실습 2.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_1장_김현석.pdf",
     "2-1/문제해결프로그래밍/4 재귀 알고리즘 분석.md",
     "2-1/웹 프로그래밍/4) 쿠키와 세션.md",
@@ -210,7 +211,6 @@
     "2-1/컴퓨터 구조/6- 주기억 장치.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_5장_김현석.pdf",
-    "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_2장_김현석.pdf",
     "${mcount}.md",
     "2-1/데이터 구조/자료/11주차(AVL).pdf",
