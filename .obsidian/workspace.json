@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/참고 자료.md",
+                "file": "Linux/리눅스 명령어.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/참고 자료.md",
+                "file": "Linux/리눅스 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/참고 자료.md",
+                "file": "Linux/리눅스 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/참고 자료.md"
+                "file": "Linux/리눅스 명령어.md"
               }
             }
           },
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 625.5,
-    "collapsed": true
+    "width": 701.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +194,9 @@
   },
   "active": "25f7aded1f100d83",
   "lastOpenFiles": [
-    "Linux/What is Linux.md",
     "Linux/참고 자료.md",
+    "Linux/리눅스 명령어.md",
+    "Linux/What is Linux.md",
     "2-1/웹 프로그래밍/7).md",
     "2-1/웹 프로그래밍/핵심 필기.md",
     "2-1/웹 프로그래밍/6) HTML 기초 실습 2.md",
@@ -230,7 +230,6 @@
     "2-1/데이터 구조/12) 정렬.md",
     "2-1/데이터 구조/자료/무제 파일.md",
     "2-1/데이터 구조/자료/11주차(AVL코드구현).pdf",
-    "2-1/데이터 구조/Stack.md",
     "무제 파일.canvas"
   ]
 }
