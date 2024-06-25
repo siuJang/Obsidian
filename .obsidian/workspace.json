@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-1/웹 프로그래밍/7).md",
+                "file": "Linux/참고 자료.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1/웹 프로그래밍/7).md",
+                "file": "Linux/참고 자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1/웹 프로그래밍/7).md",
+                "file": "Linux/참고 자료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1/웹 프로그래밍/7).md"
+                "file": "Linux/참고 자료.md"
               }
             }
           },
@@ -195,8 +195,10 @@
   },
   "active": "25f7aded1f100d83",
   "lastOpenFiles": [
-    "2-1/웹 프로그래밍/핵심 필기.md",
+    "Linux/What is Linux.md",
+    "Linux/참고 자료.md",
     "2-1/웹 프로그래밍/7).md",
+    "2-1/웹 프로그래밍/핵심 필기.md",
     "2-1/웹 프로그래밍/6) HTML 기초 실습 2.md",
     "2-1/웹 프로그래밍/5) 데이터베이스 세팅.md",
     "2-1/컴퓨터 구조/핵심필기.md",
@@ -223,7 +225,6 @@
     "2-1/웹 프로그래밍/3) 스프링부트 기초 실습.md",
     "2-1/데이터 구조/13) 기수정렬.md",
     "2-1/인공지능/ski attent.md",
-    "Linux/What is Linux.md",
     "2-1/컴퓨터 구조/5-제어 장치.md",
     "Linux",
     "2-1/데이터 구조/12) 정렬.md",
