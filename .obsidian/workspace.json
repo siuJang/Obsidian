@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearing/딥러닝 종류.md",
+                "file": "DeepLearing/기본 용어.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearing/딥러닝 종류.md",
+                "file": "DeepLearing/기본 용어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearing/딥러닝 종류.md",
+                "file": "DeepLearing/기본 용어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearing/딥러닝 종류.md"
+                "file": "DeepLearing/기본 용어.md"
               }
             }
           },
@@ -181,12 +181,12 @@
   },
   "active": "8b02deade925c755",
   "lastOpenFiles": [
-    "2-1/인공지능/CNN.md",
-    "DeepLearing/딥러닝 종류.md",
     "DeepLearing/CNN/ResNet.md",
+    "DeepLearing/CNN/CNN History.md",
+    "DeepLearing/딥러닝 종류.md",
+    "2-1/인공지능/CNN.md",
     "2-1/컴퓨터 구조/핵심필기.md",
     "DeepLearing/기본 용어.md",
-    "DeepLearing/CNN/CNN History.md",
     "DeepLearing/CNN",
     "DeepLearing/TensorFlow.md",
     "2-1/컴퓨터 구조/자료/1-서론.md",
