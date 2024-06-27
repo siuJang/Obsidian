@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearing/CNN/ResNet.md",
+                "file": "DeepLearing/기본 용어.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearing/CNN/ResNet.md",
+                "file": "DeepLearing/기본 용어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearing/CNN/ResNet.md",
+                "file": "DeepLearing/기본 용어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearing/CNN/ResNet.md"
+                "file": "DeepLearing/기본 용어.md"
               }
             }
           },
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 816.5,
-    "collapsed": true
+    "width": 816.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +194,9 @@
   },
   "active": "25f7aded1f100d83",
   "lastOpenFiles": [
-    "DeepLearing/CNN/CNN History.md",
     "DeepLearing/CNN/ResNet.md",
+    "DeepLearing/기본 용어.md",
+    "DeepLearing/CNN/CNN History.md",
     "DeepLearing/CNN",
     "DeepLearing/TensorFlow.md",
     "2-1/컴퓨터 구조/자료/1-서론.md",
@@ -229,7 +229,6 @@
     "2-1/웹 프로그래밍/자료/web2024ai_6장.pdf",
     "2-1/데이터 구조/4) node 수정, 삭제(single, double).md",
     "2-1/데이터 구조/시험문제.md",
-    "2-1/웹 프로그래밍/1) HTML.md",
     "2-1/데이터 구조/자료/13주차(기수정렬).pdf",
     "무제 파일.canvas"
   ]
