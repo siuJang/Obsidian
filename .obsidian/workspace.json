@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearing/기본 용어.md",
+                "file": "DeepLearing/딥러닝강의/1-1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearing/기본 용어.md",
+                "file": "DeepLearing/딥러닝강의/1-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearing/기본 용어.md",
+                "file": "DeepLearing/딥러닝강의/1-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearing/기본 용어.md"
+                "file": "DeepLearing/딥러닝강의/1-1.md"
               }
             }
           },
@@ -181,12 +182,19 @@
   },
   "active": "8b02deade925c755",
   "lastOpenFiles": [
+    "DeepLearing/RNN/RNN 모델의 종류.md",
+    "DeepLearing/딥러닝강의/1-1.md",
+    "DeepLearing/딥러닝강의",
+    "DeepLearing/무제 파일.md",
+    "DeepLearing/CNN/AlexNet.md",
+    "DeepLearing/RNN",
+    "DeepLearing/RNN.md",
     "DeepLearing/CNN/ResNet.md",
     "DeepLearing/CNN/CNN History.md",
+    "DeepLearing/기본 용어.md",
     "DeepLearing/딥러닝 종류.md",
     "2-1/인공지능/CNN.md",
     "2-1/컴퓨터 구조/핵심필기.md",
-    "DeepLearing/기본 용어.md",
     "DeepLearing/CNN",
     "DeepLearing/TensorFlow.md",
     "2-1/컴퓨터 구조/자료/1-서론.md",
@@ -205,18 +213,11 @@
     "2-1/컴퓨터 구조/자료/컴퓨터구조_1장_김현석.pdf",
     "2-1/문제해결프로그래밍/4 재귀 알고리즘 분석.md",
     "2-1/웹 프로그래밍/4) 쿠키와 세션.md",
-    "2-1/컴퓨터 구조/3-디지털 논리 회로.md",
-    "2-1/확률과 통계/무제 파일.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_6장_김현석.pdf",
-    "2-1/컴퓨터 구조/6- 주기억 장치.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_5장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_2장_김현석.pdf",
-    "${mcount}.md",
     "2-1/데이터 구조/자료/11주차(AVL).pdf",
-    "2-1/웹 프로그래밍/자료/web2024ai_6장.pdf",
-    "2-1/데이터 구조/4) node 수정, 삭제(single, double).md",
-    "2-1/데이터 구조/자료/13주차(기수정렬).pdf",
     "무제 파일.canvas"
   ]
 }
