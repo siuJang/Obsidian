@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -181,6 +182,8 @@
   },
   "active": "8b02deade925c755",
   "lastOpenFiles": [
+    "Pasted image 20240628144611.png",
+    "Pasted image 20240628144600.png",
     "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
     "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md",
     "DeepLearing/TensorFlow.md",
@@ -210,7 +213,6 @@
     "2-1/인공지능/ski attent.md",
     "Linux/리눅스 명령어.md",
     "Linux/참고 자료.md",
-    "Linux/What is Linux.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_1장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_6장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
