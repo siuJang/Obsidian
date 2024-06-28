@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
+                "file": "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
+                "file": "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
+                "file": "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md"
+                "file": "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md"
               }
             }
           },
@@ -182,8 +181,9 @@
   },
   "active": "8b02deade925c755",
   "lastOpenFiles": [
-    "DeepLearing/TensorFlow.md",
     "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
+    "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md",
+    "DeepLearing/TensorFlow.md",
     "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
     "DeepLearing/딥러닝강의/2-1~4장 인공 신경망과 신경회귀.md",
     "DeepLearing/딥러닝강의/1-2, 1-3, 1-4.md",
@@ -211,7 +211,6 @@
     "Linux/리눅스 명령어.md",
     "Linux/참고 자료.md",
     "Linux/What is Linux.md",
-    "2-1/웹 프로그래밍/7).md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_1장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_6장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
