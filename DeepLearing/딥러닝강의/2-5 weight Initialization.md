@@ -2,7 +2,7 @@
 ## Lecun
 - uniform() 평평한 구조 사용
 - W∼N(0,1/n1​)
-(둘이 평균, 분사 똑같음)
+(둘이 평균, 분산 똑같음)
 ## Kaiming(ReLU 사용하는 신경망)
 W∼N(0,2/nin​)
 ## Xavier(분산이 Kaiming 방식보다 작아 sigmoid/tanh 사용하는 신경망에 적)
