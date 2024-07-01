@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
+                "file": "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
+                "file": "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
+                "file": "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md"
+                "file": "DeepLearing/딥러닝강의/2-5 weight Initialization.md"
               }
             }
           },
@@ -182,21 +181,21 @@
   },
   "active": "e4cf8e9e3e281cd9",
   "lastOpenFiles": [
-    "cs231n_2017_lecture2.pdf",
+    "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
+    "DeepLearing/딥러닝강의/2-1~4장 인공 신경망과 신경회귀.md",
+    "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
+    "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md",
     "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
+    "cs231n_2017_lecture2.pdf",
     "cs231n_2017_lecture2 1.pdf",
     "DeepLearing/딥러닝강의/1-2, 1-3, 1-4.md",
-    "DeepLearing/딥러닝강의/2-1~4장 인공 신경망과 신경회귀.md",
     "DeepLearing/딥러닝강의/1-1.md",
     "DeepLearing/CS213/Lecture 2.md",
     "DeepLearing/CS231",
-    "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
-    "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md",
     "DeepLearing/CS213",
     "DeepLearing/무제 파일.md",
     "Pasted image 20240628144611.png",
     "Pasted image 20240628144600.png",
-    "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
     "DeepLearing/TensorFlow.md",
     "DeepLearing/RNN/RNN 모델의 종류.md",
     "DeepLearing/딥러닝강의/13.md",
