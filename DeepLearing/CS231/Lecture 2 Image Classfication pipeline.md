@@ -52,7 +52,7 @@ class NearestNeighbor:
     pass
 
   def train(self, X, y):
-    """ X is N x D where each row is an example. Y is 1-dimension of size N """
+    """ X는 각 행이 하나의 예제를 나타내는 N x D 크기입니다. Y는 크기가 N인 1차원 배열입니다 """
     # the nearest neighbor classifier는 단순히 모든 데이터를 기억
     self.Xtr = X
     self.Ytr = y
