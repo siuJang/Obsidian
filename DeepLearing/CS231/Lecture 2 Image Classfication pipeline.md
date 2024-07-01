@@ -40,3 +40,7 @@ First classifier : Nearest Neighbor Classifier
 10 labels
 50000 training images(32x32)
 10000 test images
+
+How do we compare the imagers? => distance metric
+L1 distance
+test image 에서 training image 각각의 원소를 빼주고 원소끼리 합친
