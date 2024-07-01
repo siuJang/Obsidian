@@ -53,6 +53,8 @@ class NearestNeighbor:
 
   def train(self, X, y):
     """ X는 각 행이 하나의 예제를 나타내는 N x D 크기입니다. Y는 크기가 N인 1차원 배열입니다 """
+    # X = N은 데이터 샘플의 수(60000) D는 각 샘플의 특징 수 이므로 CIFAR-10의 경우 각 이미지는 32x32 픽셀이고 3개의 채널을 가지므로 D = 32*32*3
+    # Y 의 n은 데이터 샘플의 수이므로 60000개며 각 값을 이미지가 속하는 클래스(cifar-10의 경우) 0~9까지의 정수를 나타낸다.
     # the nearest neighbor classifier는 단순히 모든 데이터를 기억
     self.Xtr = X
     self.Ytr = y
