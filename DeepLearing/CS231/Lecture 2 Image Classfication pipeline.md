@@ -60,7 +60,7 @@ class NearestNeighbor:
     self.Ytr = y
   
   def predict(self, X):
-    """ X is N x D where each row is an example we wish to predict label for """
+    """ 여기서의 x는 테스트이미지 """
     num_test = X.shape[0]
     # lets make sure that the output type matches the input type
     Ypred = np.zeros(num_test, dtype = self.Ytr.dtype)

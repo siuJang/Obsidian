@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
+                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
+                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
+                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearing/딥러닝강의/2-5 weight Initialization.md"
+                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "e4cf8e9e3e281cd9",
   "lastOpenFiles": [
+    "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
     "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
     "DeepLearing/딥러닝강의/2-1~4장 인공 신경망과 신경회귀.md",
-    "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
     "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md",
     "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
     "cs231n_2017_lecture2.pdf",
