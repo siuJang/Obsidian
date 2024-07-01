@@ -181,8 +181,9 @@
   },
   "active": "e4cf8e9e3e281cd9",
   "lastOpenFiles": [
-    "DeepLearing/하이퍼 파리미터.md",
+    "DeepLearing/TensorFlow.md",
     "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
+    "DeepLearing/하이퍼 파리미터.md",
     "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
     "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
     "DeepLearing/딥러닝강의/2-1~4장 인공 신경망과 신경회귀.md",
@@ -196,7 +197,6 @@
     "DeepLearing/CS213",
     "Pasted image 20240628144611.png",
     "Pasted image 20240628144600.png",
-    "DeepLearing/TensorFlow.md",
     "DeepLearing/RNN/RNN 모델의 종류.md",
     "DeepLearing/딥러닝강의/13.md",
     "DeepLearing/기본 용어.md",

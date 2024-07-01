@@ -109,4 +109,4 @@ k-nearest neighbor는 사용하면안된다
 
 ##  Linear Classfication
 - 앞전에 배운 nearest neighbor와 다르게 파라미터가 추가됨
-- 
+- f(x,W) = Wx (+b)
