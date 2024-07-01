@@ -1,3 +1,4 @@
+![[cs231n_2017_lecture2.pdf]]
 - 이미지는 숫자로 구성된 3d Array로 구성되어있
 - 이미지 구성 예)300(height)x100(width)x3(rgb)
 

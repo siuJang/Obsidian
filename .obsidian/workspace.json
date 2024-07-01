@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -181,10 +182,12 @@
   },
   "active": "e4cf8e9e3e281cd9",
   "lastOpenFiles": [
+    "cs231n_2017_lecture2.pdf",
+    "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
+    "cs231n_2017_lecture2 1.pdf",
     "DeepLearing/딥러닝강의/1-2, 1-3, 1-4.md",
     "DeepLearing/딥러닝강의/2-1~4장 인공 신경망과 신경회귀.md",
     "DeepLearing/딥러닝강의/1-1.md",
-    "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
     "DeepLearing/CS213/Lecture 2.md",
     "DeepLearing/CS231",
     "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
@@ -214,11 +217,8 @@
     "2-1/컴퓨터 구조/2-데이터의 표현.md",
     "2-1/인공지능/Overfitting.md",
     "2-1/인공지능/ski attent.md",
-    "Linux/리눅스 명령어.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_1장_김현석.pdf",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_6장_김현석.pdf",
-    "2-1/컴퓨터 구조/자료/컴퓨터구조_4장_김현석.pdf",
-    "2-1/컴퓨터 구조/자료/컴퓨터구조_5장_김현석.pdf",
     "무제 파일.canvas"
   ]
 }
