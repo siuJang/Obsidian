@@ -16,4 +16,19 @@ def predict(image)
 return class_label
 ```
 문제점 -> 하드코딩 할만한 명확한 알고리즘이 없음
+이미지에 엣지같은 패턴을 분석하여 이미지를 분석해내려는 시도가 있었지만 한계가 많았다 
+-> 그래서 데이터에 기반한 이미지 분석법이 나옴
 
+**Data-driven approach**
+1. 이미지와 레이블의 데이터셋을 모은다
+2. 이미지 classfier 를 학습시키고
+3. 학습시킨 이미지 classfier를 평가함
+```python
+def train(train_images, train_labels):
+#build a model for images -> labels..
+return model
+
+def predict(model, test_images):
+#predict test_labels using the model..
+return test_labels
+```
