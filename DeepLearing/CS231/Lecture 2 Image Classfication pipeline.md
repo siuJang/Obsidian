@@ -32,3 +32,11 @@ def predict(model, test_images):
 #predict test_labels using the model..
 return test_labels
 ```
+## 첫번째 실습
+First classifier : Nearest Neighbor Classifier
+1. 학습 단계 : 각각의 이미지와 레이블을 기억시키게함
+2. 예측 단계 : 테스트 이미지를 모든 트레이닝 이미지 하나하나와 모두 비교하고 가장 비슷한 트레이닝 이미지로 예측을 함
+데이터셋 : CIFAR-10
+10 labels
+50000 training images(32x32)
+10000 test images
