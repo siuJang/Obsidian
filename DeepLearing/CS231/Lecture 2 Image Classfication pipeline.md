@@ -108,4 +108,5 @@ k-nearest neighbor는 사용하면안된다
 - 디스턴스 값이 같으면 같다고 인식하기에 다른이미지여도 디스턴스값이 같은경우 사진도 같다고 인식하는 문제점이 있음
 
 ##  Linear Classfication
-
+- 앞전에 배운 nearest neighbor와 다르게 파라미터가 추가됨
+- 
