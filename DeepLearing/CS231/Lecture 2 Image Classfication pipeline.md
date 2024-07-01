@@ -43,4 +43,5 @@ First classifier : Nearest Neighbor Classifier
 
 How do we compare the imagers? => distance metric
 L1 distance
-test image 에서 training image 각각의 원소를 빼주고 원소끼리 합친
+DL1​(p,q)=∑i=1n​∣pi​−qi​∣
+test image 에서 training image 각각의 원소를 빼주고 원소끼리 합친 후 절댓값을 씌운다
