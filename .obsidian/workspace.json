@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
+                "file": "DeepLearing/하이퍼 파리미터.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
+                "file": "DeepLearing/하이퍼 파리미터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
+                "file": "DeepLearing/하이퍼 파리미터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md"
+                "file": "DeepLearing/하이퍼 파리미터.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   "active": "e4cf8e9e3e281cd9",
   "lastOpenFiles": [
     "DeepLearing/CS231/Lecture 3.md",
-    "README.md",
     "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
+    "README.md",
     "DeepLearing/딥러닝 종류.md",
     "DeepLearing/TensorFlow.md",
     "DeepLearing/하이퍼 파리미터.md",
