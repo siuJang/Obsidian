@@ -36,4 +36,8 @@ Softmax VS SVM
 - softmax를 더 많이 사용함
 - svm은 loss값이 불변함
 - softmax는 모든 인자를 고려하기에 loss값이 바뀜
+정리
+1. 우리는 dataset(x,y)를 가짐
+2. score function : s = Wx
+3. loss function : softmax, SVM, Full loss
 ### Optimizer
