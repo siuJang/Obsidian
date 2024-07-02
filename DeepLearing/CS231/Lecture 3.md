@@ -34,3 +34,6 @@ weight를 최대한 spread out해서 모든 input feature를 고려하게 만듬
 
 Softmax VS SVM
 - softmax를 더 많이 사용함
+- svm은 loss값이 불변함
+- softmax는 모든 인자를 고려하기에 loss값이 바뀜
+- 
