@@ -1,4 +1,5 @@
-Loss값을 구하는 2가지 방법
-1. SVM 
-correct label
-3. softmax
+## Loss값을 구하는 2가지 방법
+- SVM 
+수식은 ppt 참조
+0이나 틀린레이블점수 - 맞은레이블 점수 +1 의 값들의 합으로 loss를 구
+- softmax
