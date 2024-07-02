@@ -24,7 +24,12 @@ def L_i_vectorized(x,y,W):
 #### Weight Regularization
 자주쓰는 wr 
 - L2 regularization(가장많이쓰임)
+weight를 최대한 spread out해서 모든 input feature를 고려하게 만듬
 - L1 regularization
 - Elastic net(L1+L2)
 - Max norm regularization
 - Dropout
+### Softmax Classifier
+- class를 log화한 확률
+- 
+- 
