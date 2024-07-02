@@ -17,4 +17,6 @@ def L_i_vectorized(x,y,W):
 	loss_i = np.sum(margins)
 	return loss_i
 ```
+위 식의로 loss 값이 0이 나오는 W값이 과연 유니크할까?
+=> 아니다 테스트 데이터에 w값이 중복될수있기
 - softmax
