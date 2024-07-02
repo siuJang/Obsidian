@@ -9,4 +9,12 @@
 loss값중 될수잇는 최저값가 최고값은?
 => 최저값은 0이고 최고값은 무한대가 될수있다
 일반화를 하면 레이블의개수-1이 레이블의 loss값이 된다 이걸 활용하면 학습이 시작이 제대로된 값이 도출되는지 확인할 수 있다.
+```python
+def L_i_vectorized(x,y,W):
+	scores = W.dot(x)
+	margins = np.maximum(0, scores - scores[y] + 1)
+	margins[y] = 0
+	loss_i = np.sum(margins)
+	return loss_i
+```
 - softmax
