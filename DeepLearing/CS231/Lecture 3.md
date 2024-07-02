@@ -19,8 +19,12 @@ def L_i_vectorized(x,y,W):
 ```
 위 식의로 loss 값이 0이 나오는 W값이 과연 유니크할까?
 => 아니다 w값이 유니크하지않고 중보될수있다
-따라서 weight Regularization이 필요하다
-데이터로스는  학ㅈ습용데이터에 최대한 w를 일반화하는것이고 레귤러제이션 항에선 w를 테스트셋에 최대한 일반화시키며 서로 싸우는 느낌이다
+따라서 **weight Regularization**이 필요하다
+데이터로스는  학습용데이터에 최대한 w를 일반화하는것이고 레귤러제이션 항에선 w를 테스트셋에 최대한 일반화시키며 서로 싸우는 느낌이다
 #### Weight Regularization
--
-- softmax
+자주쓰는 wr 
+- L2 regularization(가장많이쓰임)
+- L1 regularization
+- Elastic net(L1+L2)
+- Max norm regularization
+- Dropout
