@@ -117,8 +117,3 @@ k-nearest neighbor는 사용하면안된다
 
 우리가 지금까지 한것은 score function(점수로 판단)임 앞으로 loss 개념을 이용해 score를 기반으로 얼마나 판단을 잘햇는지 loss로 정량화 할것임
 
-
-
-
-
-
