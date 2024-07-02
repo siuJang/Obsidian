@@ -31,5 +31,6 @@ weight를 최대한 spread out해서 모든 input feature를 고려하게 만듬
 - Dropout
 ### Softmax Classifier
 - class를 log화한 확률
-- 
-- 
+
+Softmax VS SVM
+- softmax를 더 많이 사용함
