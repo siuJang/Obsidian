@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 3.md",
+                "file": "DeepLearing/논문/Recurrent Neural Networks (RNNs)  A gentle Introduction and Overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 3.md",
+                "file": "DeepLearing/논문/Recurrent Neural Networks (RNNs)  A gentle Introduction and Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 3.md",
+                "file": "DeepLearing/논문/Recurrent Neural Networks (RNNs)  A gentle Introduction and Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearing/CS231/Lecture 3.md"
+                "file": "DeepLearing/논문/Recurrent Neural Networks (RNNs)  A gentle Introduction and Overview.md"
               }
             }
           },
@@ -181,11 +181,13 @@
   },
   "active": "e4cf8e9e3e281cd9",
   "lastOpenFiles": [
+    "DeepLearing/CS231/Lecture 3.md",
+    "DeepLearing/논문/Recurrent Neural Networks (RNNs)  A gentle Introduction and Overview.md",
+    "DeepLearing/논문",
     "DeepLearing/하이퍼 파리미터.md",
     "DeepLearing/딥러닝강의/2-1~4장 인공 신경망과 신경회귀.md",
     "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
     "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
-    "DeepLearing/CS231/Lecture 3.md",
     "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
     "README.md",
     "DeepLearing/딥러닝 종류.md",
@@ -216,9 +218,7 @@
     "2-1/컴퓨터 구조/자료/1-서론.md",
     "DeepLearing",
     "2-1/컴퓨터 구조/2-데이터의 표현.md",
-    "2-1/인공지능/Overfitting.md",
     "2-1/컴퓨터 구조/자료/컴퓨터구조_1장_김현석.pdf",
-    "2-1/컴퓨터 구조/자료/컴퓨터구조_6장_김현석.pdf",
     "무제 파일.canvas"
   ]
 }
