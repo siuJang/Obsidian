@@ -6,3 +6,5 @@ Distributional semantics : 의미끼리 단어의 관계가 가깝다면 벡터 
 **Word vectors**(단어벡터) : also called **word embeddings** or **word representations**
 ## Word2vec: Overview
 Word2vec : framework for learning **word vectors**
+중심단어를 C 그 밖 문맥단어를 O라 부르기로 함
+C를 선택하고 O에게 확률을 부여하는 방식으로 작동
