@@ -4,9 +4,18 @@
 Distributional semantics : 의미끼리 단어의 관계가 가깝다면 벡터 등에서 서로 가깝게 연결
 우리는 각각의 단어에대해 단어벡터를 갖게 될것
 **Word vectors**(단어벡터) : also called **word embeddings** or **word representations**
-## Word2vec: Overview
-Word2vec : framework for learning **word vectors**
-중심단어를 C 그 밖 문맥단어를 O라 부르기로 함
-C를 선택하고 O에게 확률을 부여하는 방식으로 작동
-### objective function
-L()
+## How do we represent words?
+### 1)WordNet
+어떠한 단어의 유의어, 상하관계(분류 등)을 알수있음
+limitation
+유의어를 문맥마다 다르게쓰는게 있는데 구분하지못함
+신조어 갱신 힘듬
+### discrete symbols
+one-hot vectors로 표현함
+차원 중 하나만 1이고 나머진 0이기 때문에 비효율적임
+유사도를 반영할 수 있는 방법이 없음 why -> 보통 유사도를 구할 때는 내적을 통해 구하는데 자기 자신을 제외하고는 내적하면 0이기 때문에(orthogonal) 힘듬
+### Representing words by their context
+context의 주위단어를 통해  단어를 유추함 
+window size가 5라면 양옆에 5개의 단어로 유추
+차원을 2차원에 축소시켜서 visualize하면 비슷한 단어끼리 집합된걸 확인 할 수 있음
+### Co-occurrence Matrices
