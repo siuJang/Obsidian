@@ -28,3 +28,4 @@ Likelihood수식(자료참고)
 Negative log likelihood
 ->log랑 음수를 취해줌
 ->이점은 곱을 합으로 바꿔줌 arithmetic 
+Softmax function
