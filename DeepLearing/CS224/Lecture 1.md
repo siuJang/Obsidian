@@ -19,3 +19,12 @@ context의 주위단어를 통해  단어를 유추함
 window size가 5라면 양옆에 5개의 단어로 유추
 차원을 2차원에 축소시켜서 visualize하면 비슷한 단어끼리 집합된걸 확인 할 수 있음
 ### 4)Co-occurrence Matrices
+좃구림
+### 5)Word2vec
+nueral network를 사용!
+#### Skip-gram model
+center word를 기준으로 (window size만큼)주변단어를 구하는 확률를 계산하는방법!
+Likelihood수식(자료참고)
+Negative log likelihood
+->log랑 음수를 취해줌
+->이점은 곱을 합으로 바꿔줌 arithmetic 
