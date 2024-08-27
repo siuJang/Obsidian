@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "831be9262c77b4d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "55caf0bf58831375",
+  "active": "831be9262c77b4d8",
   "lastOpenFiles": [
     "2-1/무제 파일.md",
     "선형대수",
