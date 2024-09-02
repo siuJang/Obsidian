@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -179,7 +180,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4056a8b4d7652fff",
+  "active": "52e6b5bd2c53ff41",
   "lastOpenFiles": [
     "프로세스.md",
     "2-2/운영체제의 시작과 발전/운영체제의 시작과 발전.md",
