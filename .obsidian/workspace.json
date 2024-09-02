@@ -26,25 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearing/CS224/Lecture 1.md",
+                "file": "2-2/운영체제의 시작과 발전/운영체제의 시작과 발전.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "831be9262c77b4d8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -111,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearing/CS224/Lecture 1.md",
+                "file": "2-2/운영체제의 시작과 발전/운영체제의 시작과 발전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearing/CS224/Lecture 1.md",
+                "file": "2-2/운영체제의 시작과 발전/운영체제의 시작과 발전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearing/CS224/Lecture 1.md"
+                "file": "2-2/운영체제의 시작과 발전/운영체제의 시작과 발전.md"
               }
             }
           },
@@ -204,11 +193,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "831be9262c77b4d8",
+  "active": "55caf0bf58831375",
   "lastOpenFiles": [
+    "2-2/무제 파일.md",
+    "2-2/운영체제의 시작과 발전/운영체제의 시작과 발전.md",
+    "2-2/운영체제의 시작과 발전",
+    "DeepLearing/CS224/Lecture 1.md",
+    "2-2",
     "2-1/무제 파일.md",
     "선형대수",
-    "DeepLearing/CS224/Lecture 1.md",
     "DeepLearing/NLP.md",
     "DeepLearing/무제 폴더",
     "DeepLearing/CS224",
@@ -237,12 +230,9 @@
     "DeepLearing/딥러닝강의/13.md",
     "DeepLearing/기본 용어.md",
     "DeepLearing/CNN/개요.md",
-    "DeepLearing/딥러닝강의",
     "DeepLearing/CNN/AlexNet.md",
-    "DeepLearing/RNN",
     "DeepLearing/RNN.md",
     "DeepLearing/CNN/ResNet.md",
-    "DeepLearing/CNN/CNN History.md",
     "무제 파일.canvas"
   ]
 }
