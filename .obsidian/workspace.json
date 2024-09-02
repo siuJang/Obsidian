@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcfcb17e207163e7",
+        "id": "279da19b0cc1e691",
         "type": "tabs",
         "children": [
           {
-            "id": "55caf0bf58831375",
+            "id": "52e6b5bd2c53ff41",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -180,10 +179,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "55caf0bf58831375",
+  "active": "4056a8b4d7652fff",
   "lastOpenFiles": [
-    "DeepLearing/CS224/Lecture 1.md",
+    "프로세스.md",
     "2-2/운영체제의 시작과 발전/운영체제의 시작과 발전.md",
+    "DeepLearing/CS224/Lecture 1.md",
     "2-2/무제 파일.md",
     "2-2/운영체제의 시작과 발전",
     "2-2",
@@ -219,7 +219,6 @@
     "DeepLearing/CNN/개요.md",
     "DeepLearing/CNN/AlexNet.md",
     "DeepLearing/RNN.md",
-    "DeepLearing/CNN/ResNet.md",
     "무제 파일.canvas"
   ]
 }
