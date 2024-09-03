@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-2/고전읽기/무제 파일.md",
+                "file": "2-2/최적화수학/1강.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2/고전읽기/무제 파일.md",
+                "file": "2-2/최적화수학/1강.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2/고전읽기/무제 파일.md",
+                "file": "2-2/최적화수학/1강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2/고전읽기/무제 파일.md"
+                "file": "2-2/최적화수학/1강.md"
               }
             }
           },
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 605.5
+    "width": 605.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +179,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e2813cb6561cd8f1",
+  "active": "52e6b5bd2c53ff41",
   "lastOpenFiles": [
+    "2-2/최적화수학/bv_cvxslides.pdf",
+    "2-2/최적화수학/1강.md",
+    "2-2/고전읽기/무제 파일.md",
+    "2-2/최적화수학",
     "Pasted image 20240628144611.png",
     "2-2/운영체제/운영체제의 시작과 발전.md",
-    "2-2/고전읽기/무제 파일.md",
     "2-2/고전읽기",
     "무제 폴더",
     "2-2/무제 파일.md",
@@ -207,8 +211,6 @@
     "DeepLearing/딥러닝 종류.md",
     "DeepLearing/TensorFlow.md",
     "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md",
-    "cs231n_2017_lecture2.pdf",
-    "cs231n_2017_lecture2 1.pdf",
     "DeepLearing/딥러닝강의/1-2, 1-3, 1-4.md",
     "DeepLearing/딥러닝강의/1-1.md",
     "DeepLearing/CS213/Lecture 2.md",
@@ -216,7 +218,6 @@
     "DeepLearing/RNN/RNN 모델의 종류.md",
     "DeepLearing/딥러닝강의/13.md",
     "DeepLearing/기본 용어.md",
-    "DeepLearing/CNN/개요.md",
     "무제 파일.canvas"
   ]
 }
