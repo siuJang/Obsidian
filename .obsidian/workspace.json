@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 605.5
+    "width": 605.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +179,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "52e6b5bd2c53ff41",
+  "active": "4056a8b4d7652fff",
   "lastOpenFiles": [
+    "2-2/운영체제/PPT/8장 메모리관리.pptx",
+    "2-2/운영체제/PPT",
     "2-2/최적화수학/bv_cvxslides.pdf",
     "2-2/최적화수학/1강.md",
     "2-2/고전읽기/무제 파일.md",
@@ -200,7 +203,6 @@
     "DeepLearing/CS224",
     "DeepLearing/CS231/Lecture 3.md",
     "DeepLearing/논문/Recurrent Neural Networks (RNNs)  A gentle Introduction and Overview.md",
-    "DeepLearing/논문",
     "DeepLearing/하이퍼 파리미터.md",
     "DeepLearing/딥러닝강의/2-1~4장 인공 신경망과 신경회귀.md",
     "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
