@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#프로세스",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,22 +180,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "52e6b5bd2c53ff41",
+  "active": "48d37a6e7f2b0d37",
   "lastOpenFiles": [
+    "2-2/최적화수학/1강.md",
+    "2-2/운영체제/운영체제의 시작과 발전.md",
+    "Pasted image 20240904095014.png",
     "Pasted image 20240904093655.png",
     "Pasted image 20240904093631.png",
     "Pasted image 20240904093123.png",
     "Pasted image 20240904092913.png",
     "Pasted image 20240904092903.png",
     "2-2/운영체제/PPT/무제 파일.md",
-    "2-2/운영체제/운영체제의 시작과 발전.md",
     "Pasted image 20240628144600.png",
     "2-2/운영체제/PPT/1장 운영체제의 시작과 발전 1.pptx",
     "2-2/운영체제/PPT/1장 운영체제의 시작과 발전.pptx",
     "2-2/운영체제/PPT/8장 메모리관리.pptx",
     "2-2/운영체제/PPT",
     "2-2/최적화수학/bv_cvxslides.pdf",
-    "2-2/최적화수학/1강.md",
     "2-2/고전읽기/무제 파일.md",
     "2-2/최적화수학",
     "Pasted image 20240628144611.png",
