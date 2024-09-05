@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-2/데이터베이스/무제 파일.md",
+                "file": "2-2/고전읽기/1-2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2/데이터베이스/무제 파일.md",
+                "file": "2-2/고전읽기/1-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2/데이터베이스/무제 파일.md",
+                "file": "2-2/고전읽기/1-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2/데이터베이스/무제 파일.md"
+                "file": "2-2/고전읽기/1-2.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "52e6b5bd2c53ff41",
   "lastOpenFiles": [
-    "2-2/무제 파일.md",
+    "2-2/고전읽기/무제 파일.md",
+    "2-2/고전읽기/1-2.md",
     "2-2/데이터베이스/무제 파일.md",
+    "2-2/무제 파일.md",
     "2-2/데이터베이스",
     "2-2/운영체제/운영체제의 시작과 발전.md",
     "2-2/최적화수학/1강.md",
@@ -199,7 +201,6 @@
     "2-2/운영체제/PPT/8장 메모리관리.pptx",
     "2-2/운영체제/PPT",
     "2-2/최적화수학/bv_cvxslides.pdf",
-    "2-2/고전읽기/무제 파일.md",
     "2-2/최적화수학",
     "Pasted image 20240628144611.png",
     "2-2/고전읽기",
@@ -224,7 +225,6 @@
     "DeepLearing/딥러닝강의/1-1.md",
     "DeepLearing/CS213/Lecture 2.md",
     "DeepLearing/RNN/RNN 모델의 종류.md",
-    "DeepLearing/딥러닝강의/13.md",
     "무제 파일.canvas"
   ]
 }
