@@ -27,5 +27,9 @@ import tensorflow_text
 - 일단 인덱스로 각 단어 토큰화
 - For example, the word `'searchability'` is decomposed into `'search'` and `'##ability'`, and the word `'serendipity'` into `'s'`, `'##ere'`, `'##nd'`, `'##ip'` and `'##ity'`.
 - start, end 토큰도 잊지말기
+- 토큰 max length는 120
 
-
+## 모델 하이퍼파리미터
+- buffer size 20000
+- batch size 64
+- 
