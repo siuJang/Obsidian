@@ -23,5 +23,9 @@ import tensorflow_text
 - 52000개의 정답값으로 대응대는 포르투갈어 단어, 1200개의 문법 weight, 1800개의 테스트 데이터셋을 포함
 - UTF-8로 인베딩
 
-## 토크나이저
+## Tokenizer(토큰화 과정)
+- 일단 인덱스로 각 단어 토큰화
+- For example, the word `'searchability'` is decomposed into `'search'` and `'##ability'`, and the word `'serendipity'` into `'s'`, `'##ere'`, `'##nd'`, `'##ip'` and `'##ity'`.
+- start, end 토큰도 잊지말기
+
 
