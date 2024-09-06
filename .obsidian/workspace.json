@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-2/데이터베이스/무제 파일.md",
+                "file": "2-2/이산수학/이산 수학.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2/데이터베이스/무제 파일.md",
+                "file": "2-2/이산수학/이산 수학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2/데이터베이스/무제 파일.md",
+                "file": "2-2/이산수학/이산 수학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2/데이터베이스/무제 파일.md"
+                "file": "2-2/이산수학/이산 수학.md"
               }
             }
           },
@@ -179,11 +179,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "52e6b5bd2c53ff41",
+  "active": "4056a8b4d7652fff",
   "lastOpenFiles": [
+    "DeepLearing/Transformer.md",
+    "2-2/이산수학/이산 수학.md",
+    "2-2/데이터베이스/무제 파일.md",
+    "2-2/이산수학",
     "2-2/고전읽기/1-2.md",
     "2-2/고전읽기/무제 파일.md",
-    "2-2/데이터베이스/무제 파일.md",
     "2-2/무제 파일.md",
     "2-2/데이터베이스",
     "2-2/운영체제/운영체제의 시작과 발전.md",
@@ -207,7 +210,6 @@
     "무제 폴더",
     "프로세스.md",
     "DeepLearing/CS224/Lecture 1.md",
-    "2-2/운영체제",
     "2-1/무제 파일.md",
     "DeepLearing/NLP.md",
     "DeepLearing/CS231/Lecture 3.md",
@@ -223,8 +225,6 @@
     "DeepLearing/딥러닝강의/3-2 SGD(Stochastic Gradient Descent) 확률적 경사 하강법.md",
     "DeepLearing/딥러닝강의/1-2, 1-3, 1-4.md",
     "DeepLearing/딥러닝강의/1-1.md",
-    "DeepLearing/CS213/Lecture 2.md",
-    "DeepLearing/RNN/RNN 모델의 종류.md",
     "무제 파일.canvas"
   ]
 }
