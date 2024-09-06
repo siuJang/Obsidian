@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-2/이산수학/이산 수학.md",
+                "file": "2-2/이산수학/이산 수학 PR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2/이산수학/이산 수학.md",
+                "file": "2-2/이산수학/이산 수학 PR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2/이산수학/이산 수학.md",
+                "file": "2-2/이산수학/이산 수학 PR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2/이산수학/이산 수학.md"
+                "file": "2-2/이산수학/이산 수학 PR.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   "lastOpenFiles": [
     "DeepLearing/Transformer.md",
     "DeepLearing/TensorFlow.md",
-    "2-2/이산수학/이산 수학.md",
+    "2-2/이산수학/이산 수학 PR.md",
     "2-2/데이터베이스/무제 파일.md",
     "2-2/이산수학",
     "2-2/고전읽기/1-2.md",
