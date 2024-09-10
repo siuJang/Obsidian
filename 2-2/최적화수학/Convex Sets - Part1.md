@@ -13,5 +13,9 @@
 - 두 점 x1,x2를 통과하는 Line 위의 모든 점 x
 - x는 식으로 나타낼 수 있다.
 
-**Definition 1 [Affine Set]**
+**Definition 2 [Affine Set]**
 - 집합의 구성 요소 2개를 임의로 선택하여 선택한 두 점을 지나는 직선을 그었을 때, 해당 직선을 구성하는 모든 점들이 집합의 원소인 집합
+
+**Definition 3 [Line Segment]**
+- 두 점 x1, x2을 양끝점으로하는 Line 위의 모든 점 x
+- x는 아래 식으로 나타낼 수 있다
