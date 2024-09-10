@@ -21,3 +21,4 @@
 - x는 아래 식으로 나타낼 수 있다
 
 **Definition 4 [Convex Set]**
+- 집합의 구성 원소 두개를 임의로 선택하여, 선택한 두 점을 시점과 종점으로 하는 Line segment을 그었을 때, 해당 Line segment을 구성하는 모든 점들이 집합의 원소인 집합
