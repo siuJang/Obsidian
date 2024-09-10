@@ -19,3 +19,5 @@
 **Definition 3 [Line Segment]**
 - 두 점 x1, x2을 양끝점으로하는 Line 위의 모든 점 x
 - x는 아래 식으로 나타낼 수 있다
+
+**Definition 4 [Convex Set]**
