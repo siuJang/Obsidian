@@ -12,3 +12,5 @@
 **Definition 1 [Line Through]**
 - 두 점 x1,x2를 통과하는 Line 위의 모든 점 x
 - x는 식으로 나타낼 수 있다.
+
+**Definition 1 [Affine Set]**
