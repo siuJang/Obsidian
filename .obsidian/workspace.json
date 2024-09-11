@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-2/최적화수학/Convex Sets - Part1.md",
+                "file": "2-2/운영체제/컴퓨터 하드웨어.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2/최적화수학/Convex Sets - Part1.md",
+                "file": "2-2/운영체제/컴퓨터 하드웨어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2/최적화수학/Convex Sets - Part1.md",
+                "file": "2-2/운영체제/컴퓨터 하드웨어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2/최적화수학/Convex Sets - Part1.md"
+                "file": "2-2/운영체제/컴퓨터 하드웨어.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "52e6b5bd2c53ff41",
   "lastOpenFiles": [
-    "2-2/고전읽기/2-1.md",
     "2-2/최적화수학/Convex Sets - Part1.md",
+    "2-2/고전읽기/2-1.md",
     "2-2/고전읽기/1-2.md",
     "2-2/고전읽기/무제 파일.md",
     "2-2/데이터베이스/데이터베이스 시스템.md",
