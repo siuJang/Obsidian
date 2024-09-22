@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-2/데이터베이스/데이터베이스 시스템.md",
+                "file": "2-2/운영체제/2) 컴퓨터 시스템과 운영체제.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2/데이터베이스/데이터베이스 시스템.md",
+                "file": "2-2/운영체제/2) 컴퓨터 시스템과 운영체제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2/데이터베이스/데이터베이스 시스템.md",
+                "file": "2-2/운영체제/2) 컴퓨터 시스템과 운영체제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2/데이터베이스/데이터베이스 시스템.md"
+                "file": "2-2/운영체제/2) 컴퓨터 시스템과 운영체제.md"
               }
             }
           },
@@ -180,17 +179,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4056a8b4d7652fff",
+  "active": "52e6b5bd2c53ff41",
   "lastOpenFiles": [
-    "2-2/고전읽기/2-1.md",
+    "2-2/운영체제/PPT/무제 파일.md",
+    "2-2/운영체제/2) 컴퓨터 시스템과 운영체제.md",
     "2-2/운영체제/컴퓨터 하드웨어.md",
+    "2-2/운영체제/운영체제의 시작과 발전.md",
+    "2-2/데이터베이스/데이터베이스 시스템.md",
+    "2-2/고전읽기/2-1.md",
     "2-2/최적화수학/Convex Sets - Part1.md",
     "2-2/고전읽기/1-2.md",
     "2-2/고전읽기/무제 파일.md",
-    "2-2/데이터베이스/데이터베이스 시스템.md",
     "2-2/데이터베이스/무제 파일.md",
-    "2-2/운영체제/운영체제의 시작과 발전.md",
-    "2-2/운영체제/PPT/무제 파일.md",
     "2-2/이산수학/이산 수학 PR.md",
     "DeepLearing/Transformer.md",
     "DeepLearing/TensorFlow.md",
@@ -225,7 +225,6 @@
     "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
     "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
     "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
-    "README.md",
     "무제 파일.canvas"
   ]
 }
