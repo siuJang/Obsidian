@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-2/운영체제/2) 컴퓨터 시스템과 운영체제.md",
+                "file": "2-2/운영체제/3장 프로세스와 프로세스 관리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0d2a4716ac2086ab",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2/운영체제/2) 컴퓨터 시스템과 운영체제.md",
+                "file": "2-2/운영체제/3장 프로세스와 프로세스 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2/운영체제/2) 컴퓨터 시스템과 운영체제.md",
+                "file": "2-2/운영체제/3장 프로세스와 프로세스 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2/운영체제/2) 컴퓨터 시스템과 운영체제.md"
+                "file": "2-2/운영체제/3장 프로세스와 프로세스 관리.md"
               }
             }
           },
@@ -182,7 +183,7 @@
   "active": "52e6b5bd2c53ff41",
   "lastOpenFiles": [
     "2-2/운영체제/PPT/무제 파일.md",
-    "2-2/운영체제/2) 컴퓨터 시스템과 운영체제.md",
+    "2-2/운영체제/3장 프로세스와 프로세스 관리.md",
     "2-2/운영체제/컴퓨터 하드웨어.md",
     "2-2/운영체제/운영체제의 시작과 발전.md",
     "2-2/데이터베이스/데이터베이스 시스템.md",
