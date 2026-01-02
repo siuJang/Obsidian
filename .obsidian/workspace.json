@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c1c4d1f80c412fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "창글 시험대비.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2/운영체제/3장 프로세스와 프로세스 관리.md",
+                "file": "창글 시험대비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2/운영체제/3장 프로세스와 프로세스 관리.md",
+                "file": "창글 시험대비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2/운영체제/3장 프로세스와 프로세스 관리.md"
+                "file": "창글 시험대비.md"
               }
             }
           },
@@ -180,10 +194,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "52e6b5bd2c53ff41",
+  "active": "8c1c4d1f80c412fd",
   "lastOpenFiles": [
-    "2-2/운영체제/PPT/무제 파일.md",
     "2-2/운영체제/3장 프로세스와 프로세스 관리.md",
+    "창글 시험대비.md",
+    "2-2/운영체제/PPT/무제 파일.md",
     "2-2/운영체제/컴퓨터 하드웨어.md",
     "2-2/운영체제/운영체제의 시작과 발전.md",
     "2-2/데이터베이스/데이터베이스 시스템.md",
@@ -225,7 +240,6 @@
     "DeepLearing/딥러닝강의/2-1~4장 인공 신경망과 신경회귀.md",
     "DeepLearing/딥러닝강의/2-5 weight Initialization.md",
     "DeepLearing/딥러닝강의/3-1 Gradient descent 문제점.md",
-    "DeepLearing/CS231/Lecture 2 Image Classfication pipeline.md",
     "무제 파일.canvas"
   ]
 }
